@@ -1,0 +1,28 @@
+"""Assignment operator"""
+x=5
+x+= 3
+print(x)
+
+x1=6
+x1-=3
+print(x1)
+
+y=3
+y*=5
+print(y)
+
+y1=6
+y1/=5
+print(y1)
+
+z=10
+z%=10
+print(z)
+
+a=700
+a//=78
+print(a)
+
+u=2
+u**=6
+print(u)
