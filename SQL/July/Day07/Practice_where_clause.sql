@@ -34,3 +34,4 @@ Price != 600;
 select BookId,Price from Books 
 where
 BookName="Clean Code"; 
+
