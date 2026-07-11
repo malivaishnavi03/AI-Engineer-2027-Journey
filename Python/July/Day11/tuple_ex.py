@@ -1,0 +1,7 @@
+fruits=("banana","kiwi","mango","apple","berry")
+print(fruits[1])
+print(fruits[-1])
+print(len(fruits))
+print(fruits.index("banana"))
+mylist=list(fruits)
+print(mylist)
