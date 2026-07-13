@@ -1,3 +1,5 @@
+"""palindrome means the number that same as orginal and in reverse from """
+
 num = int(input("Enter a number: "))
 original = num
 reverse = 0
